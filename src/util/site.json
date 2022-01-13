@@ -2,7 +2,7 @@
   "meta": {
     "title": "Republic Day",
     "titleTemplate": "%s",
-    "description": "",
+    "description": "Welcome",
     "siteUrl": "https://republic-day.netlify.app/",
     "image": "/assets/republic-day-favicon.jpg",
     "iconimage": "/assets/republic-day-favicon.jpg",
