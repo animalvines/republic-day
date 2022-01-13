@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Republic Day",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "",
+    "siteUrl": "https://republic-day.netlify.app/",
+    "image": "/assets/republic-day-favicon.jpg",
+    "iconimage": "/assets/republic-day-favicon.jpg",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
